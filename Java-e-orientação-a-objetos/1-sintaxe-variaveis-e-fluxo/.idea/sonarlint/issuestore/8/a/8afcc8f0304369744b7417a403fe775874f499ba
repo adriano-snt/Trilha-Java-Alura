@@ -1,0 +1,8 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "primeiro".(óŸŞØ
+Q
+java:S1854";Remove this useless assignment to local variable "segundo".(æƒ°Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢–Ëûşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
