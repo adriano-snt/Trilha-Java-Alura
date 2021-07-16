@@ -49,6 +49,3 @@ As seguintes tecnoligas estão sendo usadas na trilha Java:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 <a href="#top">Back to top</a>
-# Trilha-Java-Alura
-# Trilha-Java-Alura
-# Trilha-Java-Alura
