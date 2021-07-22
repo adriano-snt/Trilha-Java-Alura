@@ -1,6 +1,6 @@
 public class TestaGetESet {
     public static void main(String[] args) {
-        Conta conta = new Conta();
+        Conta conta = new Conta(1337, 2222);
 
         conta.setNumero(1222);
         System.out.println("O número da conta é: "+ conta.getNumero());
@@ -14,6 +14,7 @@ public class TestaGetESet {
 
         conta.setTitular(adriano);
         //apartir daqui que o meu titular aponta para o objeto conta Adriano
+
         System.out.println(conta.getTitular().getNome());
         System.out.println(conta.getTitular().getCpf());
 
