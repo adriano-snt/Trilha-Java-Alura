@@ -8,6 +8,5 @@ public class TestaValores {
         Conta conta2 = new Conta(1565, 2223);
 
         System.out.println(Conta.getTotal());
-
     }
 }
