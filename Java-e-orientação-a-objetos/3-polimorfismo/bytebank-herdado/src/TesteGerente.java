@@ -1,5 +1,7 @@
 public class TesteGerente {
     public static void main(String[] args) {
+
+        Gerente gerente = new Gerente();
         Gerente g1 = new Gerente();
         g1.setNome("Adriano");
         g1.setCpf("2009343");
