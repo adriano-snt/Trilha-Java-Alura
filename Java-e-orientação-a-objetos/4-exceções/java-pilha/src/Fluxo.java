@@ -7,7 +7,6 @@ public class Fluxo {
         } catch (ArithmeticException | NullPointerException ex) {
             ex.printStackTrace();
         }
-
     }
 
     private static void metodo1() {
