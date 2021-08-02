@@ -4,26 +4,21 @@ public class Fluxo {
         try {
             metodo1();
             System.out.println("fim do main");
-        } catch (ArithmeticException | NullPointerException ex) {
+        } catch (Exception ex) {
             ex.printStackTrace();
         }
     }
 
-    private static void metodo1() {
+    private static void metodo1() throws MinhaExcecao {
         System.out.println("Ini do metodo1");
         metodo2();
         System.out.println("Fim do metodo1");
     }
 
-    private static void metodo2() {
+    private static void metodo2() throws MinhaExcecao {
         System.out.println("Ini do metodo2");
-        for (int i = 1; i <= 5; i++) {
-            System.out.println(i);
-            //int a = i/0;
-            Conta c = null;
-            c.deposita();
+       throw new NullPointerException("deu muito errado");
 
-            System.out.println("Fim do metodo2");
+//       System.out.println("Fim do metodo2");
         }
     }
-}
