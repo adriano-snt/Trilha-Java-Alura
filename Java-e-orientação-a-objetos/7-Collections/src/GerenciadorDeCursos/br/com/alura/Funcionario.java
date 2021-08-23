@@ -8,7 +8,8 @@ public class Funcionario {
         this.nome = nome;
         this.idade = idade;
     }
-    
+
+
     public String getNome() {
         return nome;
     }
