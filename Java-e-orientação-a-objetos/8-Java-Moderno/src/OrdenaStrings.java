@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class OrdenaStrings {
     public static void main(String[] args) {
@@ -11,15 +10,15 @@ public class OrdenaStrings {
         palavras.add("editora casa do codigo");
         palavras.add("caelum");
 
-        Comparator<String> comparador = new ComparadorPorTamanho();
-
-        Consumer<String> consumidor = new ConsumidorDeString();
+//        Comparator<String> comparador = new ComparadorPorTamanho();
+//
+//        Consumer<String> consumidor = new ConsumidorDeString();
         //Collections.sort(palavras, comparador);
 
         //palavras.sort(comparador);
 
-        palavras.forEach(consumidor);
-       // System.out.println(palavras);
+//        palavras.forEach(consumidor);
+        System.out.println(palavras);
         //Using default methods
         palavras.sort(Comparator.comparing(s -> s.length()));
 
