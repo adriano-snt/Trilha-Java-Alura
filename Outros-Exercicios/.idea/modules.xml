@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collection/Map/Map.iml" filepath="$PROJECT_DIR$/Collection/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Outros-Exercicios.iml" filepath="$PROJECT_DIR$/Outros-Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
     </modules>
   </component>
