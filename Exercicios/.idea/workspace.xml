@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="Exercise 2 finished">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/adriano_santos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/TestaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio2/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio2/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Exercicio1/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Exercicio1/TestaPessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Exercicio2/Agenda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Exercicio2/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/0/5/05828037c8e1eea5badfbd455cc490f9af90d275" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/0/7/076944044630247e6f087dd5aa77a3c446f080b7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/4/3/43c37c076bf74e2f04203a9c76f9963445f2d43c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/4/b/4ba903531daf92209a19516fb9d0caa5c6f07b35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/4/c/4c93978230dc116b36c24b1f87dda270654b4a28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/5/c/5cce3e4cec50a36e063ef9b2082e5a782a0ba054" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/7/f/7f3011edf9864220365df73d566357756cadbca3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/9/6/96348e3d7698affec7f833b4bd180eeb0ed3bbab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/9/b/9bcbab2ca3cf13cb05eab03eaa6b50f5ca0af3b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/a/1/a1b95884c9019dd066aad54eae051d43c8460802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/a/d/ad3e3e7187f9ae7a30ef881c0c7fb5da4462ccbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/a/e/aea8238f8f0307d7f8b2a37f2c00b0f3f76b0fb7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/b/c/bc20dbf57e81a825018212dfef998905097aad52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/d/5/d5c2f0dba69c8c0f6936898b281ae2bb11685f10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/d/8/d8c78842a1850adedaa92958ab6d9fa3d5ee2882" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/e/3/e38fcfbe766e4f75887328b37c94eec59fc84e47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/e/6/e60fdea44e7a62f517ab37c87e3bbb7f2b55a035" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/f/b/fb78298c33ee5e3c5705df2d3b9d8ba8d8fe802c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/4-exceções/java-pilha/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/9-TDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/src/main/java/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/src/main/java/service/BonusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/src/test/java/service/BonusServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/target/classes/model/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/target/classes/service/BonusService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/9-TDD/Project/target/test-classes/service/BonusServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Outros-Exercicios/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/adria.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/3-polimorfismo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/Exercicio1/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/Exercicio1/TestaPessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/TestaPessoa.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1xYeIrIAyJl4d1x2OyafX7kdhhs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Agenda">
+    <configuration name="Agenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio2.Agenda" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio1.TestaPessoa" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Agenda" />
+        <item itemvalue="Application.TestaPessoa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="" />
+      <created>1630536372843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630536372843</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise 2 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 finished" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
