@@ -1,6 +1,4 @@
 
-q
-Abytebank-herdado-conta/src/br/com/bytebank/banco/teste/Teste.java,b/c/bc20dbf57e81a825018212dfef998905097aad52
 w
 Gbytebank-herdado-conta/src/br/com/bytebank/banco/teste/TesteContas.java,a/d/ad3e3e7187f9ae7a30ef881c0c7fb5da4462ccbc
 ‡
@@ -15,10 +13,12 @@ w
 Gbytebank-herdado-conta/src/br/com/bytebank/banco/teste/TesteString.java,7/f/7f3011edf9864220365df73d566357756cadbca3
 |
 Lbytebank-herdado-conta/src/br/com/bytebank/banco/teste/TesteTributaveis.java,e/6/e60fdea44e7a62f517ab37c87e3bbb7f2b55a035
-Z
-*bytebank-herdado/src/AutenticacaoUtil.java,5/c/5cce3e4cec50a36e063ef9b2082e5a782a0ba054
 V
 &bytebank-herdado/src/Autenticavel.java,f/b/fb78298c33ee5e3c5705df2d3b9d8ba8d8fe802c
+Z
+*bytebank-herdado/src/TesteFuncionario.java,9/b/9bcbab2ca3cf13cb05eab03eaa6b50f5ca0af3b3
+Z
+*bytebank-herdado/src/TesteReferencias.java,d/8/d8c78842a1850adedaa92958ab6d9fa3d5ee2882
 Q
 !bytebank-herdado/src/Cliente.java,4/c/4c93978230dc116b36c24b1f87dda270654b4a28
 ]
@@ -26,12 +26,16 @@ Q
 P
  bytebank-herdado/src/Design.java,a/1/a1b95884c9019dd066aad54eae051d43c8460802
 U
+%bytebank-herdado/src/EditorVideo.java,3/d/3d402bcface9ee2c20533b0f7b057ceb889dc25c
+U
 %bytebank-herdado/src/Funcionario.java,a/e/aea8238f8f0307d7f8b2a37f2c00b0f3f76b0fb7
 Q
 !bytebank-herdado/src/Gerente.java,0/7/076944044630247e6f087dd5aa77a3c446f080b7
-Z
-*bytebank-herdado/src/TesteFuncionario.java,9/b/9bcbab2ca3cf13cb05eab03eaa6b50f5ca0af3b3
+V
+&bytebank-herdado/src/TesteSistema.java,a/1/a11a969342345d3f6d403315b20cfa992ada38a8
 V
 &bytebank-herdado/src/TesteGerente.java,4/3/43c37c076bf74e2f04203a9c76f9963445f2d43c
+q
+Abytebank-herdado-conta/src/br/com/bytebank/banco/teste/Teste.java,b/c/bc20dbf57e81a825018212dfef998905097aad52
 Z
-*bytebank-herdado/src/TesteReferencias.java,d/8/d8c78842a1850adedaa92958ab6d9fa3d5ee2882
+*bytebank-herdado/src/AutenticacaoUtil.java,5/c/5cce3e4cec50a36e063ef9b2082e5a782a0ba054

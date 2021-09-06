@@ -12,7 +12,6 @@ package Exercicio2;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class Agenda {
     public static void main(String[] args) {
         List<Pessoa> pessoas = new ArrayList(9);
@@ -48,7 +47,6 @@ public class Agenda {
         //DADOS DE TODAS AS PESSOAS DA AGENDA
         System.out.println("Todas as pessoas armazenadas na agenda: ");
         pessoas.forEach(Pessoa::getDados);
-
 
     }
 }

@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ý¦æ•þÿÿÿÿ
+E
+java:S2201"*The return value of "keySet" must be used.(ßýÒˆþÿÿÿÿ
+A
+java:S1481"&Remove this unused "s" local variable.(€Å¥™úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È„Žµýÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï”à’
+0
+java:S1220""Move this file to a named package.
