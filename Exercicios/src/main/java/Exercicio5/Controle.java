@@ -17,7 +17,7 @@ public class Controle {
         }
         catch (InputMismatchException erro1) {
             System.err.println("Não é permitido inserir letras, informe apenas números inteiros!");
-            scan.nextLine(); //descarta a entrada errada do usuário
+            scan.nextLine();
         }
         return 0;
     }

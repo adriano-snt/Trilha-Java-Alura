@@ -1,6 +1,7 @@
 package Exercicio5;
 
 import java.util.List;
+import java.util.Objects;
 
 public class Caminhao {
     private String tipoCaminhao;
@@ -9,10 +10,9 @@ public class Caminhao {
 
 
     public Caminhao(String tipoCaminhao, int capacidadePluviometros, List<Integer> pluviometros){
-       this.setTipoCaminhao(tipoCaminhao);
-       this.setCapacidadePluviometros(capacidadePluviometros);
-       this.setPluviometros (pluviometros);
-
+       setTipoCaminhao(tipoCaminhao);
+       setCapacidadePluviometros(capacidadePluviometros);
+       setPluviometros (pluviometros);
     }
 
     public String getTipoCaminhao() {
@@ -31,14 +31,21 @@ public class Caminhao {
         this.capacidadePluviometros = capacidadePluviometros;
     }
 
-    public List<Integer> getPluviometros() {
-        return pluviometros;
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(capacidadePluviometros);
     }
 
     public void setPluviometros(List<Integer> pluviometros) {
         this.pluviometros = pluviometros;
     }
+
+    public List<Integer> getPluviometros() {
+        return pluviometros;
+    }
 }
+
 
 
 

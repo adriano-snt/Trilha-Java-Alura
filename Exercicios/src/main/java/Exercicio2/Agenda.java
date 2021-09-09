@@ -11,6 +11,7 @@ package Exercicio2;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Agenda {
     public static void main(String[] args) {
@@ -29,10 +30,10 @@ public class Agenda {
 
         //POSIÇÃO DA PESSOA NA AGENDA
         int posicaoNaLista = 0;
+
         for (int i = 1; i < pessoas.size(); i++) {
             pessoas.get(i).getNome().contains("Adriano");
             posicaoNaLista = i + 1;
-
         }
         System.out.println("A posição da pessoa na agenda é: " + posicaoNaLista);
 

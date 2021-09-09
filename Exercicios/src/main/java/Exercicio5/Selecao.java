@@ -7,8 +7,8 @@ public class Selecao extends Controle {
     static List<Caminhao> inserirCaminhao() {
 
         String tipoCaminhao = "";
-        String tipoPluviometro = "";
-        String adicionarPluviometro = "";
+        String tipoPluviometro;
+        String adicionarPluviometro;
         List<Caminhao> caminhoes = new ArrayList<>();
 
         System.out.println("==========CADASTRO DE CAMINHÕES==========");
@@ -17,7 +17,7 @@ public class Selecao extends Controle {
             int pluviometroX = 0;
             int pluviometroY = 0;
             int pluviometroZ = 0;
-            int capacidadePluviometros = 0;
+            int capacidadePluviometros;
             List<Integer> pluviometros = new ArrayList<>();
 
             do {
@@ -79,36 +79,39 @@ public class Selecao extends Controle {
     }
 
 
-    static void comparaCaminhoes(List<Caminhao> caminhoes) {
+    static Optional<Caminhao> comparaCaminhoes(List<Caminhao> caminhoes) {
 
         if (!(caminhoes == null)) {
+            Optional<Caminhao> caminhaoComMaiorCapacidade = caminhoes.stream()
+                    .max(Comparator.comparing(Caminhao::getCapacidadePluviometros));
 
-            Comparator<Caminhao> comparator =
-                    Comparator.comparing(Caminhao::getCapacidadePluviometros);
-            Collections.sort(caminhoes, comparator);
-
-            Caminhao item = caminhoes.get(caminhoes.size() - 1);
-
-            System.out.println("\n=============================================");
-            System.out.println("Dados do caminhão com maior capacidade: ");
-            System.out.println("Tipo: " + item.getTipoCaminhao() + ";");
-            System.out.println("Capacidade total de pluviômetros: " + item.getCapacidadePluviometros()+ " unidades;");
-            System.out.println("Tipos de pluviômetros:");
-
-
-            if (item.getPluviometros().get(0) > 0) {
-                System.out.println(" - Tipo x: " + item.getPluviometros().get(0) + " unidades;");
-            }
-            if (item.getPluviometros().get(1) > 0) {
-                System.out.println(" - Tipo y: " + item.getPluviometros().get(1) + " unidades;");
-            }
-            if (item.getPluviometros().get(2) > 0) {
-                System.out.println(" - Tipo z: " + item.getPluviometros().get(2) + " unidades;");
-            }
+            return caminhaoComMaiorCapacidade;
         }
-
+        return Optional.empty();
     }
 
-}
 
+    static void dadosCaminhaoComMaiorCapacidade(Optional<Caminhao> caminhaoComMaiorCapacidade) {
+        System.out.println("\n=============================================");
+        System.out.println("Dados do caminhão com maior capacidade: ");
+        System.out.println("Tipo: " + caminhaoComMaiorCapacidade.get().getTipoCaminhao() + ";");
+        System.out.println("Capacidade total de pluviômetros: " + caminhaoComMaiorCapacidade.get().getCapacidadePluviometros() + " unidades;");
+        System.out.println("Tipos de pluviômetros:");
+
+        for (int i = 0; i < caminhaoComMaiorCapacidade.get().getPluviometros().size(); i++) {
+            if (caminhaoComMaiorCapacidade.get().getPluviometros().get(i) > 0) {
+                if (i == 0) {
+                    System.out.println(" - Tipo x: " + caminhaoComMaiorCapacidade.get().getPluviometros().get(i) + " unidades;");
+                }
+                if (i == 1) {
+                    System.out.println(" - Tipo y: " + caminhaoComMaiorCapacidade.get().getPluviometros().get(i) + " unidades;");
+                }
+                if (i == 2) {
+                    System.out.println(" - Tipo z: " + caminhaoComMaiorCapacidade.get().getPluviometros().get(i) + " unidades;");
+                }
+            }
+        }
+        System.out.println("=============================================");
+    }
+}
 

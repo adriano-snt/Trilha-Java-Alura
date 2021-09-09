@@ -4,14 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="Exercise 2 finished">
+    <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="Exercises finished">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio2/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio2/Agenda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio3/Elevador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio3/Elevador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4/Controle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio4/Controle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4/Televisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio4/Televisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio5/Caminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Controle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio5/Controle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Selecao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio5/Selecao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio5/Teste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Exercicio2/Agenda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio2/Agenda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio2/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio2/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/bytebank-herdado/src/TesteSistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-e-orientação-a-objetos/3-polimorfismo/bytebank-herdado/src/TesteSistema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio3/Elevador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio3/Elevador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio3/TestaElevador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio3/TestaElevador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio4/Controle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio4/Controle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio4/Televisao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio4/Televisao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Caminhao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio5/Caminhao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Selecao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio5/Selecao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Exercicio5/Teste.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -56,9 +69,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-e-orientação-a-objetos" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="5" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Exercicio5" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Teste">
     <configuration name="Agenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -131,8 +154,8 @@
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.TestaControle" />
         <item itemvalue="Application.TestaElevador" />
-        <item itemvalue="Application.Agenda" />
         <item itemvalue="Application.TestaPessoa" />
+        <item itemvalue="Application.Agenda" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630610991602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercises finished">
+      <created>1630940582577</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630940582577</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 finished" />
+    <MESSAGE value="Exercises finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercises finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

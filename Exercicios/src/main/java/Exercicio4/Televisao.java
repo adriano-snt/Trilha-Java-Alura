@@ -9,15 +9,29 @@ O controle permite:
  */
 
 public class Televisao {
-    protected int volume;
-    protected int canal;
+    private int volume;
+    private int canal;
 
     public Televisao(){
-        this.canal = 1;
-        this.volume = 30;
+        this.setCanal(1);
+        this.setVolume(30);
     }
+
 
     public int getVolume() {
         return volume;
     }
+
+    public void setVolume(int volume) {
+        this.volume = volume;
+    }
+
+    public int getCanal() {
+        return canal;
+    }
+
+    public void setCanal(int canal) {
+        this.canal = canal;
+    }
 }
+

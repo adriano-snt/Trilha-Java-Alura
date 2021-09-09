@@ -1,11 +1,11 @@
 package Exercicio5;
 
-import static Exercicio5.Selecao.comparaCaminhoes;
-import static Exercicio5.Selecao.inserirCaminhao;
+import static Exercicio5.Selecao.*;
 
 public class Teste {
     public static void main(String[] args) {
-        comparaCaminhoes(inserirCaminhao());
+
+        dadosCaminhaoComMaiorCapacidade(comparaCaminhoes(inserirCaminhao()));
     }
 }
 
