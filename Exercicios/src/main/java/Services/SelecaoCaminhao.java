@@ -1,8 +1,13 @@
-package Exercicio5;
+package Services;
+
+import Services.ControleCaminhao;
+import Objects.Caminhao;
+
+
 
 import java.util.*;
 
-public class Selecao extends Controle {
+public class SelecaoCaminhao extends ControleCaminhao {
 
     static List<Caminhao> inserirCaminhao() {
 

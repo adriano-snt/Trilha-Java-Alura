@@ -1,9 +1,9 @@
-package Exercicio5;
+package Services;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Controle {
+public class ControleCaminhao {
 
     public static String leString() {
         Scanner scan = new Scanner(System.in);

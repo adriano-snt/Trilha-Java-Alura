@@ -1,8 +1,10 @@
-package Exercicio4;
+package Tests;
+
+import Services.ControleTelevisao;
 
 public class TestaControle{
     public static void main(String[] args) {
-        Controle controle = new Controle();
+        ControleTelevisao controle = new ControleTelevisao();
         controle.informacoes();
         controle.aumentarNumeroCanal();
         controle.aumentarVolume();
@@ -10,7 +12,7 @@ public class TestaControle{
         controle.diminuirNumeroCanal();
         controle.diminuirVolume();
         controle.informacoes();
-        controle.selecionarCanal(10);
+        controle.selecionarCanal(15);
         controle.informacoes();
     }
 
