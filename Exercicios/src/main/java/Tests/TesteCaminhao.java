@@ -1,11 +1,13 @@
 package Tests;
 
-import static Services.SelecaoCaminhao.*;
+import static Services.SelecaoCaminhaoService.*;
 
 public class TesteCaminhao {
     public static void main(String[] args) {
 
-//        dadosCaminhaoComMaiorCapacidade(comparaCaminhoes(inserirCaminhao()));
+        selecionaCaminhoes(inserirCaminhao());
     }
+
+
 }
 

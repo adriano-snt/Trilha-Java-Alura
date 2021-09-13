@@ -1,7 +1,6 @@
 package Objects;
 
 import java.util.List;
-import java.util.Objects;
 
 public class Caminhao {
     private String tipoCaminhao;
@@ -27,23 +26,13 @@ public class Caminhao {
         return capacidadePluviometros;
     }
 
-    public void setCapacidadePluviometros(int capacidadePluviometros) {
-        this.capacidadePluviometros = capacidadePluviometros;
-    }
-
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(capacidadePluviometros);
-    }
+    public void setCapacidadePluviometros(int capacidadePluviometros) {this.capacidadePluviometros = capacidadePluviometros;}
 
     public void setPluviometros(List<Integer> pluviometros) {
         this.pluviometros = pluviometros;
     }
 
-    public List<Integer> getPluviometros() {
-        return pluviometros;
-    }
+    public List<Integer> getPluviometros() {return pluviometros;}
 }
 
 

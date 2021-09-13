@@ -1,10 +1,10 @@
 package Tests;
 
-import Services.ControleTelevisao;
+import Services.ControleTelevisaoService;
 
 public class TestaControle{
     public static void main(String[] args) {
-        ControleTelevisao controle = new ControleTelevisao();
+        ControleTelevisaoService controle = new ControleTelevisaoService();
         controle.informacoes();
         controle.aumentarNumeroCanal();
         controle.aumentarVolume();

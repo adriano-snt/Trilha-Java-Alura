@@ -5,23 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/6278beb4e27769c2e84917c4f03d889103596574" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6985eff9058d6a99bdc03708e1390aacb682442" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Services/DadosPessoaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/353cc712ec185cb737441462e2839496c58bb0b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a1f98486cdd2773f4b9169537f07d7702b4082e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca29d38e479c59f900210ec492f9e8ae3ed5446a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio1/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio1/TestaPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TestaPessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio2/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio2/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio3/Elevador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Elevador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio3/TestaElevador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4/Controle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/ControleTelevisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4/Televisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Televisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio4/TestaControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TestaControle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Caminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Controle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/ControleCaminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Selecao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/SelecaoCaminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio5/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TesteCaminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Objects/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Caminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Objects/Elevador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Elevador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Objects/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Services/Agenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Services/ControleCaminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/DadosCaminhaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Services/ControleTelevisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/ControleTelevisaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Services/PessoaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Services/SelecaoCaminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/SelecaoCaminhaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/TODO_GERAL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/TestaControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TestaControle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/TestaPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TestaPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/TesteCaminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tests/TesteCaminhao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio1/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio1/TestaPessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio2/Agenda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio2/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio3/Elevador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio3/TestaElevador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio4/Controle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio4/Televisao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio4/TestaControle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Caminhao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Controle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Selecao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exercicio5/Teste.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,22 +101,9 @@
       <recent name="Exercicio5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestaControle">
-    <configuration name="TestaControle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.TestaControle" />
-      <module name="Exercicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestaElevador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio3.TestaElevador" />
+  <component name="RunManager" selected="Application.TesteCaminhao">
+    <configuration name="AgendaService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Services.AgendaService" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
@@ -127,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercicio1.TestaPessoa" />
+    <configuration name="TesteAgenda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.TesteAgenda" />
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercicio1.*" />
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +146,20 @@
       <module name="Exercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.*" />
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteElevador$TestaElevador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.TesteElevador$TestaElevador" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestaControle" />
-        <item itemvalue="Application.TestaPessoa (1)" />
         <item itemvalue="Application.TesteCaminhao" />
-        <item itemvalue="Application.TestaElevador" />
-        <item itemvalue="Application.TestaPessoa" />
+        <item itemvalue="Application.TesteElevador$TestaElevador" />
+        <item itemvalue="Application.TesteAgenda" />
+        <item itemvalue="Application.AgendaService" />
+        <item itemvalue="Application.TestaPessoa (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631149363373</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1631232145588</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631232145588</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
