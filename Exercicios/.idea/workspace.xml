@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment="refatoracao PR">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f91d8e26923ca1cc91aa9c4469680676dd5ff2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5dc94d62c2f3a0b193d444b5e957b7ffb5c00c54" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="b81148e4-a7bd-4cf4-a2b6-ff28490f29db" name="Changes" comment=".gitignore added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Objects/Caminhao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Objects/Caminhao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Services/ElevadorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Services/ElevadorService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631575792715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".gitignore added">
+      <created>1631577023685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631577023685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +225,8 @@
     <MESSAGE value="Exercises finished" />
     <MESSAGE value="update" />
     <MESSAGE value="refatoracao PR" />
-    <option name="LAST_COMMIT_MESSAGE" value="refatoracao PR" />
+    <MESSAGE value=".gitignore added" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
