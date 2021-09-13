@@ -34,9 +34,3 @@ public class Caminhao {
 
     public List<Integer> getPluviometros() {return pluviometros;}
 }
-
-
-
-
-
-
